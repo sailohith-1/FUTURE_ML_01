@@ -34,10 +34,6 @@ This project was completed as part of my **Machine Learning Internship at Future
 ### Yearly Trends  
 ![Yearly Analysis](yearly_analysis.png)  
 
-## 🔗 Resources  
-- 📂 [Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)  
-- 💻 [Code Notebook](https://colab.research.google.com/drive/1yJr0z0XoNETChb4C5GRnP2IUq8OP8dxz?usp=sharing)  
-- 📊 [Power BI Dashboard](https://github.com/vivek-boini/FUTURE_ML_01/blob/main/ML-task1.pbix)  
 
 ## 🏆 Internship Task  
 This project is **Task 1** of my internship at **Future Interns**, focusing on **Machine Learning and Time Series Forecasting**.  
